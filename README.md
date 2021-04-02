@@ -16,5 +16,9 @@ Using arduino uno, I made a 3 button-typer for typing korean letter ( maximun 4 
 youtube link
 : 
 사용방법 - https://www.youtube.com/watch?v=XnpgLSjY-KA&ab_channel=Blyon
+
+
 내부 설계 - https://www.youtube.com/watch?v=mCG-gkLjaTI&ab_channel=Blyon
+
+
 내부 설계2 - https://www.youtube.com/watch?v=tGj1vCd_jKM&ab_channel=Blyon
